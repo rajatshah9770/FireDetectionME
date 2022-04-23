@@ -1,0 +1,15 @@
+io. setwarnings (False)
+io. setup(aq2, io. IN)
+io. setup(buzzer, i0.0UT)
+Led. message( ‘nq? sensor\n")
+while 1: rt
+‘nq2_state=io. input (nq2)
+print (mgz_state)
+if mq2_state==True:
+‘i0.output (buzzer, io. HIGH)
+Led. clear()
+Led.message("gas sensor\n activated ")
+steep(1)
+
+ 
+

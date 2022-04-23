@@ -1,0 +1,25 @@
+import RPi.GPIO as io
+from tine inport steep
+
+import Adafruit charLCD as LCD
+Led rs
+
+Led_en
+Led da
+Led 5
+Led 6
+led. 47
+Led_backlight = 4
+
+Lcd_colums = 16
+
+Ved_rows = 2
+
+nq2=21
+
+I
+
+ 
+
+ 
+
